@@ -1,0 +1,120 @@
+
+{
+  "app": {
+    "name": "اركب معي",
+    "slogan": "اركب معًا، حافظ على الكوكب"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "trips": "الرحلات",
+    "profile": "الملف الشخصي",
+    "about": "عن التطبيق",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "dashboard": "لوحة التحكم",
+    "logout": "تسجيل الخروج"
+  },
+  "language": {
+    "english": "الإنجليزية",
+    "arabic": "العربية"
+  },
+  "auth": {
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "email": "البريد الإلكتروني",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "idUpload": "تحميل صورة الهوية",
+    "licenseUpload": "تحميل صورة رخصة القيادة",
+    "carUpload": "تحميل صورة السيارة",
+    "registerAs": "التسجيل كـ",
+    "driver": "سائق",
+    "passenger": "راكب",
+    "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟"
+  },
+  "trips": {
+    "createTrip": "إنشاء رحلة",
+    "findTrip": "البحث عن رحلة",
+    "origin": "نقطة الانطلاق",
+    "destination": "الوجهة",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "seats": "المقاعد المتاحة",
+    "price": "السعر",
+    "details": "تفاصيل الرحلة",
+    "passengerCount": "عدد الركاب",
+    "search": "بحث",
+    "availableTrips": "الرحلات المتاحة",
+    "myTrips": "رحلاتي",
+    "noTrips": "لم يتم العثور على رحلات",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "join": "انضمام",
+    "leave": "مغادرة"
+  },
+  "profile": {
+    "myProfile": "ملفي الشخصي",
+    "editProfile": "تعديل الملف الشخصي",
+    "rating": "التقييم",
+    "reviews": "المراجعات",
+    "tripsCompleted": "الرحلات المكتملة",
+    "memberSince": "عضو منذ",
+    "contactInfo": "معلومات الاتصال",
+    "saveChanges": "حفظ التغييرات"
+  },
+  "footer": {
+    "aboutUs": "من نحن",
+    "contactUs": "اتصل بنا",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة",
+    "allRightsReserved": "جميع الحقوق محفوظة"
+  },
+  "home": {
+    "hero": {
+      "title": "سافر معًا، وفر معًا",
+      "subtitle": "ابحث عن رحلات أو اعرض رحلاتك وقلل من بصمتك الكربونية",
+      "buttonDriver": "عرض رحلة",
+      "buttonPassenger": "البحث عن رحلة"
+    },
+    "features": {
+      "title": "لماذا تختار اركب معي؟",
+      "eco": {
+        "title": "صديق للبيئة",
+        "description": "تقليل انبعاثات الكربون من خلال مشاركة الرحلات"
+      },
+      "save": {
+        "title": "توفير المال",
+        "description": "مشاركة تكاليف السفر مع الآخرين"
+      },
+      "convenient": {
+        "title": "مريح",
+        "description": "ابحث عن رحلات تناسب جدولك الزمني"
+      },
+      "safe": {
+        "title": "آمن",
+        "description": "مستخدمون موثوقون ونظام تقييم"
+      }
+    },
+    "howItWorks": {
+      "title": "كيف يعمل",
+      "step1": {
+        "title": "إنشاء حساب",
+        "description": "سجل كسائق أو راكب"
+      },
+      "step2": {
+        "title": "ابحث أو اعرض رحلة",
+        "description": "ابحث عن الرحلات المتاحة أو أنشئ رحلتك الخاصة"
+      },
+      "step3": {
+        "title": "تواصل",
+        "description": "تواصل مع السائق أو الراكب"
+      },
+      "step4": {
+        "title": "سافر",
+        "description": "استمتع برحلتك ووفر المال"
+      }
+    }
+  }
+}

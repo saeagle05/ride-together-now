@@ -1,0 +1,120 @@
+
+{
+  "app": {
+    "name": "Ride with Me",
+    "slogan": "Ride together, save the planet"
+  },
+  "nav": {
+    "home": "Home",
+    "trips": "Trips",
+    "profile": "Profile",
+    "about": "About",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "auth": {
+    "username": "Username",
+    "password": "Password",
+    "email": "Email",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "idUpload": "Upload ID Picture",
+    "licenseUpload": "Upload Driver's License Picture",
+    "carUpload": "Upload Car Picture",
+    "registerAs": "Register as",
+    "driver": "Driver",
+    "passenger": "Passenger",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "trips": {
+    "createTrip": "Create Trip",
+    "findTrip": "Find Trip",
+    "origin": "Origin",
+    "destination": "Destination",
+    "date": "Date",
+    "time": "Time",
+    "seats": "Available Seats",
+    "price": "Price",
+    "details": "Trip Details",
+    "passengerCount": "Number of Passengers",
+    "search": "Search",
+    "availableTrips": "Available Trips",
+    "myTrips": "My Trips",
+    "noTrips": "No trips found",
+    "edit": "Edit",
+    "delete": "Delete",
+    "join": "Join",
+    "leave": "Leave"
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "editProfile": "Edit Profile",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "tripsCompleted": "Trips Completed",
+    "memberSince": "Member Since",
+    "contactInfo": "Contact Information",
+    "saveChanges": "Save Changes"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "allRightsReserved": "All Rights Reserved"
+  },
+  "home": {
+    "hero": {
+      "title": "Travel Together, Save Together",
+      "subtitle": "Find or offer rides and reduce your carbon footprint",
+      "buttonDriver": "Offer a Ride",
+      "buttonPassenger": "Find a Ride"
+    },
+    "features": {
+      "title": "Why Choose Ride with Me?",
+      "eco": {
+        "title": "Eco-Friendly",
+        "description": "Reduce carbon emissions by sharing rides"
+      },
+      "save": {
+        "title": "Save Money",
+        "description": "Share travel costs with others"
+      },
+      "convenient": {
+        "title": "Convenient",
+        "description": "Find rides that match your schedule"
+      },
+      "safe": {
+        "title": "Safe",
+        "description": "Verified users and rating system"
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Create an Account",
+        "description": "Sign up as a driver or passenger"
+      },
+      "step2": {
+        "title": "Find or Offer a Ride",
+        "description": "Search for available trips or create your own"
+      },
+      "step3": {
+        "title": "Connect",
+        "description": "Communicate with your driver or passenger"
+      },
+      "step4": {
+        "title": "Travel",
+        "description": "Enjoy your journey and save money"
+      }
+    }
+  }
+}
